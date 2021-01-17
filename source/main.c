@@ -8,6 +8,7 @@ int _main(struct thread *td) {
   initKernel();
   initLibc();
 
+  jailbreak();
   spoof_target_id(SPOOF);
 
   initSysUtil();
