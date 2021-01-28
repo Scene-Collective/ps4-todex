@@ -25,7 +25,7 @@ int _main(struct thread *td) {
   printf_notification("Spoofing Target ID: 0x%hhx!", SPOOF);
 
 #ifdef DEBUG_SOCKET
-  printf_socket("\nClosing socket...\n\n");
+  printf_debug("Closing socket...\n");
   SckClose(DEBUG_SOCK);
 #endif
 
