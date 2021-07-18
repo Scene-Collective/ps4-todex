@@ -21,4 +21,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Commit history. Starting versioning with a clean slate.
 
 [unreleased]: https://github.com/Scene-Collective/ps4-todex/compare/v1.0.0...HEAD
-[1.0.0]: https://github.com/Scene-Collective/ps4-todex-updates/releases/tag/v1.0.0
+[1.0.0]: https://github.com/Scene-Collective/ps4-todex/releases/tag/v1.0.0
